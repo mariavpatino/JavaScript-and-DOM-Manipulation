@@ -4,7 +4,7 @@
 
 <br>
 
-`ALIENS-R-REAL` have collected all of the eye-witness reports to prove ALIENS ARE REAL! but collection is too large to search through manually. I wrote a code that will create a table dynamically based upon a data set provided [dataset we provide](UFO-level-1/static/js/data.js). It has filter that allows to search for specific values. 
+`ALIENS-R-REAL` have collected all of the eye-witness reports to prove ALIENS ARE REAL! but collection is too large to search through manually. I wrote a code that will create a table dynamically based upon a data set provided [datasetProvided](UFO-level-1/static/js/data.js). It has filter that allows to search for specific values. 
 
 
 Technology Used:
@@ -13,6 +13,16 @@ Technology Used:
 * D3
 
 <br>
+
+## Install
+
+<br>
+
+* Clone from Github page.
+* In terminal or gitBash, run a git clone in desired location to save app.
+* Open the index.html file in each directory (UFO-level-1 and UFO-level-2).
+
+
 
 ## Process
 
