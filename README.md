@@ -27,7 +27,6 @@ Technology Used:
 ## Process
 
 ### UFO-1: Automatic Table and Date Search
-<br>
 
 * HTML web page provided.
 
@@ -44,7 +43,6 @@ Technology Used:
 <br>
 
 ### UFO-2: Multiple Search Categories
-<br>
 
 * Using multiple `input` tags and/or select dropdowns, the code can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
