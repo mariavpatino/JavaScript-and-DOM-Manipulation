@@ -22,7 +22,7 @@ Technology Used:
 * In terminal or gitBash, run a git clone in desired location to save app.
 * Open the index.html file in each directory (UFO-level-1 and UFO-level-2).
 
-
+<br>
 
 ## Process
 
