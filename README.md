@@ -4,7 +4,7 @@
 
 <br>
 
-`ALIENS-R-REAL` have collected all of the eye-witness reports to prove ALIENS ARE REAL! but collection is too large to search through manually. I wrote a code that will create a table dynamically based upon a data set provided [Dataset Provided](UFO-level-1/static/js/data.js). It has filter that allows to search for specific values. 
+`ALIENS-R-REAL` have collected all of the eye-witness reports to prove ALIENS ARE REAL! but collection is too large to search through manually. I wrote a code that will create a table dynamically based upon a [Dataset Provided](UFO-level-1/static/js/data.js). It has filter that allows to search for specific values. 
 
 
 Technology Used:
